@@ -52,3 +52,11 @@ section img {
 	font-size:15px;
 	margin-left:25px;
 }
+
+.colorful-link {
+	color:purple;
+}
+
+.colorful-link:hover {
+	color:orange;
+}
